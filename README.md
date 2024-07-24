@@ -47,10 +47,6 @@ This project is a voice-controlled web assistant that uses speech recognition to
 - Make sure you have a stable internet connection for web browsing and speech recognition.
 - If the Chrome browser doesn't open, check that you have Chrome installed and that the path to the Chrome executable is in your system's PATH.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page] if you want to contribute.
-
 ## Acknowledgements
 - Selenium WebDriver
 - SpeechRecognition library
