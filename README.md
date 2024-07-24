@@ -30,8 +30,8 @@ This project is a voice-controlled web assistant that uses speech recognition to
 
 2. Wait for the "Hello, Your Name(whatever you will set)" message.
 
-3. Speak one of the following commands when prompted:
-- "Open Google"
+3. follow further commands in sequence till the command "Search Youtube" when prompted:
+- "Open Google"(This should be the first command to start chrom browser)
 - "Search Google"
 - "Open YouTube"
 - "Search YouTube"
