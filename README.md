@@ -51,10 +51,6 @@ This project is a voice-controlled web assistant that uses speech recognition to
 
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page] if you want to contribute.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Acknowledgements
 - Selenium WebDriver
 - SpeechRecognition library
